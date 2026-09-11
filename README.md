@@ -1,4 +1,4 @@
-# 💡 Sistema de Gestão de Ideias --- Telebit
+# 💡 Sistema de Gestão de Ideias
 
 Aplicação web desenvolvida em **Python** com **Streamlit** para
 registrar, priorizar, consultar e acompanhar ideias de inovação e
